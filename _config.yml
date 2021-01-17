@@ -31,6 +31,8 @@ github_username: foxboy26
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
+  - nokogiri
 
 markdown: kramdown
 kramdown:
