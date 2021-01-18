@@ -3,7 +3,7 @@ layout: post
 title:  "Project Euler P2 - Even Fibonacci numbers"
 date:   2021-01-16 18:00:00
 categories: project_euler
-tags: simple Fibonacci
+tags: simpleFibonacci
 ---
 The easiest way is probably writing a program to do this, as $4\times 10^6$ is not a big number and Fibonacci number grows expotenially. The following Python snippet does the job:
 
